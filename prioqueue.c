@@ -1,4 +1,4 @@
-
+//Program to implement priority queue
 #include<stdio.h>
 
 #define pl 7
